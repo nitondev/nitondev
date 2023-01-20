@@ -1,3 +1,4 @@
-<center>
-<p>Self-taught nerd</p>
-</center>
+
+<p align="center">Almost a 29 y/o self-taught nerd</p>
+
+
