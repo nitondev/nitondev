@@ -2,4 +2,4 @@
 
 ## Current projects:
 - 📦 **[Yeetbox](https://github.com/nitondev/yeetbox)** - a self-hosted temporary file sharing platform
-
+- 🗑️ **[trashcli](https://github.com/nitondev/trashcli)** - a modern CLI tool for safely moving files to trash
